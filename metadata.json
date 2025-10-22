@@ -1,0 +1,5 @@
+{
+  "name": "Nâng cấp Trình Tạo Truyện Tranh Học Tập",
+  "description": "Một ứng dụng sử dụng AI để tạo ra các câu chuyện truyện tranh giáo dục. Người dùng nhập chủ đề, nội dung, nhân vật và ứng dụng sẽ sinh ra các lời nhắc tạo ảnh để xây dựng một câu chuyện hoàn chỉnh.",
+  "requestFramePermissions": []
+}
